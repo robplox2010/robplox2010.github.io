@@ -36,7 +36,8 @@ body{
         line-height: normal;
         font-variant: small-caps;
         position: relative;
-        bottom: 250px;}
+        bottom: 250px;
+    left: 100px; }
     .liinid{
         font-size: 20px;
         size: 20px;}
@@ -47,4 +48,3 @@ body{
     position: relative;
     right: 1000px;
     top: 450px;}
-

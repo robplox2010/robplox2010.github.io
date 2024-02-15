@@ -1,0 +1,50 @@
+body{
+    width: 1421px;
+    height: 4473px;
+    flex-shrink: 0;
+    border: 0px solid #000;
+    background:#74777E;}
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;}
+    .esimenediv{
+        display: flex;} 
+    .text-section{
+        width: 50%;
+       padding-left: 200px;
+       padding-top: 100px;}
+    .keskmtext{
+        color: #FFF;
+        font-family: Lexend;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;}
+    .orderbutton{
+        width: 249px;
+        height: 68px;
+        flex-shrink: 0;
+        border-radius: 50px;
+        background: #ab04ff;
+        color: #FFF;
+        font-family: Roboto;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        font-variant: small-caps;
+        position: relative;
+        bottom: 250px;}
+    .liinid{
+        font-size: 20px;
+        size: 20px;}
+    .siin{
+        font-size: 100px;
+        position: relative;}
+    .button-section{
+    position: relative;
+    right: 1000px;
+    top: 450px;}
+

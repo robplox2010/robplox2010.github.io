@@ -48,3 +48,49 @@ body{
     position: relative;
     right: 1000px;
     top: 450px;}
+    .text-section2{
+        font-size: 20px;
+        color: #ff0b0b;
+        position: relative;
+        top: 150px;
+        margin: 5px;
+    }    
+    .text-section3{
+        font-size: 20px;
+        color: #ff0b0b;
+        position: relative;
+        top: 150px;
+        margin: 5px;
+    }
+    .text-section4{
+        font-size: 20px;
+        color: #ff0b0b;
+        position: relative;
+        top: 150px;
+        margin: 5px;
+    }
+    p{
+        font-size: 23px;
+    }
+    p2{
+    font-size: 22;
+    }
+    p3{
+        font-size: 20px;
+        position: relative;
+        top: 30px;
+        right: 200px;
+    }
+    p5{
+        font-size: 18px;
+        position: relative;
+        left: 5px;
+        bottom: 20px;
+        margin: 5px;
+        width: 300px;
+    }
+    p4{
+        position: relative;
+        top: 40px;
+        right: 200px;
+    }
